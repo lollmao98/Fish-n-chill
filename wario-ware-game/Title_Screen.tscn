@@ -1,6 +1,6 @@
-[gd_scene load_steps=3 format=3 uid="uid://cmgc8m57m1rg5"]
+[gd_scene load_steps=3 format=3 uid="uid://drqhmppq8hm58"]
 
-[ext_resource type="Script" uid="uid://bsx8c5upmtx7g" path="res://title_screen.gd" id="1_fqm6y"]
+[ext_resource type="Script" uid="uid://bwdogkpgfavrt" path="res://Title_Screen.gd" id="1_fqm6y"]
 [ext_resource type="Texture2D" uid="uid://btfbm8jlhxjlt" path="res://assest/main menu/sea side.jpg" id="1_hgv8g"]
 
 [node name="Title_Screen" type="Node2D"]
