@@ -25,7 +25,7 @@ func _ready() -> void:
 	move_timer.wait_time = 5.0
 	move_timer.one_shot = false
 	
-	game_timer.wait_time = 30.0
+	game_timer.wait_time = 20.0
 	game_timer.one_shot = true
 	
 	if not circle_area.input_event.is_connected(_on_circle_area_input_event):
